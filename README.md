@@ -30,4 +30,4 @@ The model achieves a State of the Art FID score of 11.7
     
   -Female, Young, Attractive, Blond_Hair, Smiling, Eyeglasses
   
-   ![Alt text](https://github.com/marcellosicbaldi/Conditional-Face-Generation/blob/main/images/blonde_eyeglasses.png)
+    ![Alt text](https://github.com/marcellosicbaldi/Conditional-Face-Generation/blob/main/images/blonde_eyeglasses.png)
