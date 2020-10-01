@@ -13,6 +13,9 @@ More details can be found in the file cGAN.ipynb
 The model achieves a State of the Art FID score of 11.7
 
   - Unconditional generation
+  
     ![Alt text](https://github.com/marcellosicbaldi/Conditional-Face-Generation/blob/main/images/FID_11.png)
 
-
+  - Man, Old, Bald, Arched_Eyebrows, Bushy_Eyebrows, Pale_Skin
+  
+    ![Alt text](https://github.com/marcellosicbaldi/Conditional-Face-Generation/blob/main/images/FID_11.png)
