@@ -4,13 +4,15 @@ Generation of faces with specific attributes using Generative Adeversarial Netwo
 
 # Model
 
-Conditional DCGAN. Labels vector concatenated in the discriminator by means of vectorization. All details can be found in the file cGAN.ipynb
+Conditional DCGAN. 
+Labels vector concatenated in the discriminator by means of vectorization. 
+More details can be found in the file cGAN.ipynb
 
 # Results 
 
 The model achieves a State of the Art FID score of 11.7
 
-  - *Unconditional generation
-    ![alt text](http://url/to/plot.png)
+  - Unconditional generation
+    ![alt text](/Users/marcellosicbaldi/Desktop/Università/AI/Deep Learning/Project/conditional/acgan.png)
 
 
