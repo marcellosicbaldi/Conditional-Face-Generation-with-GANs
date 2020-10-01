@@ -13,6 +13,6 @@ More details can be found in the file cGAN.ipynb
 The model achieves a State of the Art FID score of 11.7
 
   - Unconditional generation
-    ![alt text](http://Users/marcellosicbaldi/Desktop/Università/AI/Deep Learning/Project/conditional/acgan.png)
+    ![Alt text](http://Users/marcellosicbaldi/Desktop/Università/AI/DeepLearning/Project/conditional/acgan.png)
 
 
