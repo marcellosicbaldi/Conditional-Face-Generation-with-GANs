@@ -1,4 +1,4 @@
-# Conditional-Face-Generation
+# Conditionaln Face Generation
 
 Generation of faces with specific attributes using Generative Adeversarial Networks (GANs) on CelebA dataset
 
