@@ -16,11 +16,11 @@ The model achieves a State of the Art FID score of 11.7
   
     ![Alt text](https://github.com/marcellosicbaldi/Conditional-Face-Generation/blob/main/images/FID_11.png)
     
-  - Woman, Young, Attractive, Brown_Hair, Bangs, Heavy_Makeup
+  - Female, Young, Attractive, Brown_Hair, Bangs, Heavy_Makeup
    
     ![Alt text](https://github.com/marcellosicbaldi/Conditional-Face-Generation/blob/main/images/bangs.png)
 
-  - Man, Old, Bald, Arched_Eyebrows, Bushy_Eyebrows, Pale_Skin, No_Beard
+  - Male, Old, Bald, Arched_Eyebrows, Bushy_Eyebrows, Pale_Skin, No_Beard
   
     ![Alt text](https://github.com/marcellosicbaldi/Conditional-Face-Generation/blob/main/images/bald.png)
     
