@@ -1,6 +1,6 @@
 # Conditional Face Generation
 
-Generation of faces with specific attributes using Generative Adeversarial Networks (GANs) on CelebA dataset
+Generation of faces with specific attributes using Generative Adversarial Networks (GANs) on CelebA dataset
 
 ## Model
 
